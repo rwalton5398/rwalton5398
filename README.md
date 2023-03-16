@@ -1,4 +1,4 @@
-<h1>Hi, I'm Reginald, an <a href="https://linkedin.com/in/Josh">IT Professional</a>/h1>
+<h1>Hi, I'm Reginald, an <a href="https://linkedin.com/in/Josh">IT Professional</a>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 - <b>osTicket (Help Desk Ticketing System)</b>
